@@ -1,0 +1,86 @@
+Date: Sun Sep 30 03:16:05 CEST 2018
+To: mediation-batch-test-03@test.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Sun Sep 30 14:42:49 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Reset password request
+Body: Hello  Admin Strator,
+
+You (or someone pretending to be you) requested a password reset of your account.
+
+You may reset your password from the following link:
+
+http://www.yourcompany.com/jbilling/resetPassword/changePassword?token=P74UUkOJFeKwsd7OgfcXQeZspP4aS94d
+
+Admin:	Prancing Pony
+Attachement: null
+        ----------------------        
+Date: Sun Sep 30 15:15:56 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@jbilling.com
+Subject: Initial Credentials
+Body: Hello anupam verma,
+
+Welcome to jBilling!.
+
+Please follow this link to set your credentials:
+
+http://www.yourcompany.com/jbilling/resetPassword/changePassword?token=Zvjzk359p5Fp1z5uRRfO0S76yh5n2wFV
+
+Admin:	KPN
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 00:27:38 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 00:35:02 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 00:36:35 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 00:42:02 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 01:05:11 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 01:14:45 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
+Date: Mon Oct 01 01:26:57 CEST 2018
+To: wild.anupam@gmail.com
+From: admin@prancingpony.me
+Subject: Billing Statement from |company_name|
+Body: Some text
+Attachement: null
+        ----------------------        
